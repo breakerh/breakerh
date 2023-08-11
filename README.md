@@ -4,7 +4,7 @@
   <h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Bram Hammer </h1>
   <p>
   🔭 I’m currently working on too much (personal) projects and some awesome client projects<br/><br/>
-  📫 How to reach me: bhammer93@gmail.com
+  📫 How to reach me: bhammer93@gmail.com<br/><br/>
   🏢 <a href="https://github.com/Fullstak-nl" target="_blank">Fullstak Github</a>
   </p>
 </div>
